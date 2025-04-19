@@ -1,4 +1,5 @@
 ### READ ME!!!!!
+# Works with most other themes!
 # This is made just to revert certain parts of the ui to their 2024 look.
 # I do not own any of the code and all the credit goes to the vencord community and specifically:
 
