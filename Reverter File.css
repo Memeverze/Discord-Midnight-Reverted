@@ -1,5 +1,5 @@
-@import url("https://scattagain.github.io/VencordStuff/css/GuildbarRevert.css");
 @import url('https://raw.githubusercontent.com/surgedevs/visual-refresh-compact-title-bar/refs/heads/main/desktop.css');
+@import url("https://scattagain.github.io/VencordStuff/css/GuildbarRevert.css");
 :root {
     /* Only include this part if you wish to change these variables */
     /* You can change the size but only to be less than 48px, you must change the blob scale too */
