@@ -1,5 +1,5 @@
 @import url("https://scattagain.github.io/VencordStuff/css/GuildbarRevert.css");
-
+@import url('https://raw.githubusercontent.com/surgedevs/visual-refresh-compact-title-bar/refs/heads/main/desktop.css');
 :root {
     /* Only include this part if you wish to change these variables */
     /* You can change the size but only to be less than 48px, you must change the blob scale too */
@@ -55,7 +55,6 @@ nav.guilds_c48ade {
   left: calc(var(--custom-guild-list-width)*2  + var(--space-xs));
   width: calc(100% - var(--custom-guild-list-width)*2 - var(--space-xs)*2 ) !important;
 } */
-@import url('https://raw.githubusercontent.com/surgedevs/visual-refresh-compact-title-bar/refs/heads/main/desktop.css');
 span[class*="timestampInline_"] time::before {
   content: attr(aria-label);
   font-size: 12px;
